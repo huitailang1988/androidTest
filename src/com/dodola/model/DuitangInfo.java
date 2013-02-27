@@ -7,6 +7,7 @@ public class DuitangInfo {
 	private String	isrc	= "";
 
 	public String getAlbid() {
+		int test = 1;
 		return albid;
 	}
 
